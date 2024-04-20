@@ -11,7 +11,6 @@ As a dedicated student with a profound love for sports, I embarked on this journ
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
