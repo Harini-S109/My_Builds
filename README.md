@@ -1,4 +1,4 @@
-# Frontend sports academy landing page website
+# Frontend sports academy website
 
 Presenting my passion project: The Sports Academy Landing Page Website!
 
